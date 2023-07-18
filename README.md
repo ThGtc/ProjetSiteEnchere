@@ -3,7 +3,7 @@
 _Projet en équipe, avec Java EE, JSP, Bootstrap & MySQL_
 
 <p align="center">
-    <img alt="Screenshot of the webapp, when you have won an auction" height="238" src="/home/thibaut/Documents/dev/ENI_projects/ProjetSiteEnchere_docs/Enchères_ggenchère.png" title="auction_won" width="252"/>
+    <img alt="Screenshot of the webapp, when you have won an auction" height="238" src="src/screenshot/Enchères_ggenchère.png" title="auction_won" width="252"/>
 </p>
 
 1. Pour setup la base de données : créer une table ‘ENCHERE’ puis y importer le fichier ENCHERE.sql
